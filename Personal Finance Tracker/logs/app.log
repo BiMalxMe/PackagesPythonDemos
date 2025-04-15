@@ -1,0 +1,3 @@
+2025-04-15 22:17:02,049 - INFO - Application started at 2025-04-15 22:17:02
+2025-04-15 22:17:07,646 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-04-15 22:17:07,667 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
