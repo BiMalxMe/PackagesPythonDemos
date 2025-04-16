@@ -29,3 +29,8 @@ The **Personal Finance Tracker** is a Python-based application designed to help 
 ![totalspendinbycategory](https://github.com/user-attachments/assets/ee3452a9-613b-4089-9015-b0a3cc3d7e8b)
 
 ![montlySpendingTrend](https://github.com/user-attachments/assets/14f296d1-cbcc-4915-8193-f01239c2cb9a)
+
+
+##2. Weather Forecast using APi
+
+![WeatherForecast](https://github.com/user-attachments/assets/83112924-4de9-4773-b54f-6c99efa4cc39)
